@@ -98,8 +98,7 @@ Outlet categories included:
 - Tier 3 locations recorded the highest sales.
 - Supermarket Type1 contributed the highest sales among outlet types.
 - Outlet establishment sales peaked in 2018.
-  <img width="1288" height="707" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ba70f040-151b-4624-b8c0-2a3530f1067a" />
-
 
 ## 📝 Conclusion
 This dashboard provides an interactive view of Blinkit's sales performance and outlet operations. It helps identify sales trends, compare outlet performance, and understand product category contributions through data visualization and interactive filtering.
+<img width="1288" height="707" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ba70f040-151b-4624-b8c0-2a3530f1067a" />
