@@ -1,104 +1,34 @@
 # Blinkit Sales Analysis Dashboard | Power BI
 
 ## 📊 Project Overview
-This project focuses on analyzing Blinkit's sales data using Microsoft Power BI. The interactive dashboard provides a detailed overview of sales performance, product categories, outlet establishment trends, outlet sizes, and outlet locations. It helps understand business performance through KPIs, charts, and interactive filters.
+Developed an interactive Blinkit Sales Analysis Dashboard using Microsoft Power BI to analyze sales performance, product categories, and outlet operations. The dashboard provides business insights through interactive visualizations, KPIs, and filters.
 
-## 🎯 Project Objectives
-- Analyze overall sales performance.
-- Identify top-performing outlet types.
-- Understand product category-wise sales.
-- Compare sales based on fat content.
-- Analyze outlet establishment trends.
-- Evaluate outlet size and location performance.
-- Monitor average ratings and item visibility.
+## 🎯 Key Analysis Performed
 
-## 📌 Key Performance Indicators (KPIs)
-- **Total Sales:** $1.20M
-- **Average Sales:** $141
-- **Number of Items:** 8,523
-- **Average Rating:** 3.9
+- **Sales Performance Analysis:** Analyzed overall sales performance and average sales.
+- **Outlet Establishment Analysis:** Evaluated sales trends based on outlet establishment years.
+- **Fat Content Analysis:** Compared sales performance of Low Fat and Regular products.
+- **Item Type Analysis:** Analyzed sales distribution across different product categories.
+- **Outlet Size Analysis:** Compared sales contributions across Small, Medium, and High outlet sizes.
+- **Outlet Location Analysis:** Evaluated outlet performance across Tier 1, Tier 2, and Tier 3 locations.
+- **Outlet Type Analysis:** Compared outlet types based on total sales, average sales, number of items, average rating, and item visibility.
+- **Performance Analysis:** Used multiple KPIs to monitor overall business performance.
 
-## 🎛️ Interactive Filters
-The dashboard includes three interactive slicers:
-- Outlet Location Type
-- Outlet Size
-- Item Type
-
-## 📈 Dashboard Visualizations
-
-### 1. Outlet Establishment
-Displays sales trends based on outlet establishment year (2011–2020).
-
-### 2. Fat Content Analysis
-Compares sales based on product fat content:
-- Low Fat: $776.3K
-- Regular: $425.4K
-
-### 3. Item Type Analysis
-Shows sales distribution across different product categories:
-- Fruits and Vegetables
-- Snack Foods
-- Household
-- Frozen Foods
-- Dairy
-- Canned
-- Baking Goods
-- Health and Hygiene
-- Meat
-- Soft Drinks
-- Breads
-- Hard Drinks
-- Others
-- Starchy Foods
-- Breakfast
-- Seafood
-
-### 4. Fat by Outlet
-Analyzes Low Fat and Regular product sales across:
-- Tier 1
-- Tier 2
-- Tier 3
-
-### 5. Outlet Size Analysis
-Displays sales contribution by outlet size:
-- Medium: $507.9K
-- Small: $444.8K
-- High: $249.0K
-
-### 6. Outlet Location Analysis
-Compares sales across different location tiers:
-- Tier 1: $336.4K
-- Tier 2: $393.2K
-- Tier 3: $472.1K
-
-### 7. Outlet Type Analysis
-Provides a detailed comparison of outlet performance using five metrics:
-- Total Sales
-- Average Sales
-- Number of Items
-- Average Rating
-- Item Visibility
-
-Outlet categories included:
-- Grocery Store
-- Supermarket Type1
-- Supermarket Type2
-- Supermarket Type3
+## 🎛️ Dashboard Features
+- Interactive slicers for Outlet Location Type, Outlet Size, and Item Type.
+- KPI cards for important business metrics.
+- Donut charts for categorical comparisons.
+- Bar charts for product and outlet comparisons.
+- Line/area chart for outlet establishment trends.
+- Comparative table for outlet type performance.
 
 ## 🛠️ Tools & Technologies
 - Microsoft Power BI
+- Power Query
 - Data Cleaning and Transformation
 - Data Visualization
-- Interactive Dashboard Design
+- Interactive Dashboard Development
 
-## 💡 Key Insights
-- Total sales reached $1.20M.
-- Low Fat products contributed higher sales than Regular products.
-- Medium-sized outlets generated the highest sales.
-- Tier 3 locations recorded the highest sales.
-- Supermarket Type1 contributed the highest sales among outlet types.
-- Outlet establishment sales peaked in 2018.
-
-## 📝 Conclusion
-This dashboard provides an interactive view of Blinkit's sales performance and outlet operations. It helps identify sales trends, compare outlet performance, and understand product category contributions through data visualization and interactive filtering.
+## 💡 Project Outcome
+Created an interactive dashboard to explore sales trends, compare outlet performance, identify product category contributions, and understand key business metrics for better data-driven decision-making.
 <img width="1288" height="707" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ba70f040-151b-4624-b8c0-2a3530f1067a" />
